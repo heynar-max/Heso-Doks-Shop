@@ -1,10 +1,15 @@
+import { Title } from "@/components";
 
 
 export default function Home() {
   return (
-      <div>
-        <h1>hola mundo</h1>
-      </div>
+      <>
+        <Title
+          title="Tienda"
+          subtitle="Todos los productos"
+          className="mb-2"
+        />
+      </>
     
   );
 }

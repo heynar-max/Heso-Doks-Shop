@@ -35,7 +35,7 @@ export const initialData: SeedData = {
             slug: "taza_dorada_aries",
             type: 'tazas',
             tags: ['sublimacion'],
-            title: "taza dorada",
+            title: "Mug de Aries",
             gender: 'dorado'
         },
         {
@@ -50,7 +50,7 @@ export const initialData: SeedData = {
             slug: "taza_dorada_cancer",
             type: 'tazas',
             tags: ['sublimacion'],
-            title: "taza dorada",
+            title: "Mug de Cancer",
             gender: 'dorado'
         },
         {
@@ -65,7 +65,7 @@ export const initialData: SeedData = {
             slug: "taza_plateada_cisne",
             type: 'tazas',
             tags: ['sublimacion'],
-            title: "taza plateada",
+            title: "Mug de Cisne",
             gender: 'plateado'
         },
         {
@@ -80,7 +80,7 @@ export const initialData: SeedData = {
             slug: "taza_plateada_fenix",
             type: 'tazas',
             tags: ['sublimacion'],
-            title: "taza plateada",
+            title: "Mug de Fenix",
             gender: 'plateado'
         },
         {
@@ -95,7 +95,7 @@ export const initialData: SeedData = {
             slug: "taza_dorada_geminis",
             type: 'tazas',
             tags: ['sublimacion'],
-            title: "taza dorada",
+            title: "Mug de Géminis",
             gender: 'dorado'
         },
         {
@@ -110,7 +110,7 @@ export const initialData: SeedData = {
             slug: "taza_dorada_piscis",
             type: 'tazas',
             tags: ['sublimacion'],
-            title: "taza dorada",
+            title: "Mug de Piscis",
             gender: 'dorado'
         },
         {
@@ -125,7 +125,7 @@ export const initialData: SeedData = {
             slug: "taza_dorada_tauro",
             type: 'tazas',
             tags: ['sublimacion'],
-            title: "taza dorada",
+            title: "Mug de Tauro",
             gender: 'dorado'
         },
         {
